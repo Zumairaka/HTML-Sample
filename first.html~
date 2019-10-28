@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Zumaira </title>
+	</head>
+	<body>
+		<h1> This is my first web page </h1>
+		<h2> ICTAK </h2>
+		<strong> Calicut </strong>
+		<span> 2019 </span>
+		<em> 2019 </em>
+		<i> 2019 </i>
+		<strong> Calicut </strong>
+		<h3> ICTAK </h3>
+		<a href = "www.google.com" target = "_blank"> Click </a>
+		<h4> ICTAK </h4>
+		<h5> ICTAK </h5>
+		<h6> ICTAK </h6>
+		<p> UL Cyber Park, Calicut, 2019 batch. What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has?
+Letraset sheets containing
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+
+	</body>
+</html>
