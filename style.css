@@ -4,6 +4,7 @@ body {
     background-image : url(Images/bg.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0px;
 }
 h1{
     color: rgb(146, 28, 42);
@@ -12,6 +13,60 @@ h2{
     color: #0b7df0
 }
 img{
-    width:100px;
-    height:100px;
+    width:30%;
+    height:40%;
+}
+.header{
+    background-color: rgba(34, 32, 36, 0.39);
+    margin-bottom: 10px;
+}
+.left{
+    height: 300px;
+    width: 40%;
+    background-color: rgba(34, 32, 36, 0.39);
+    border-radius: 25px;
+    margin-left: 60px;
+    padding: 20px;
+}
+.right{
+    height: 300px;
+    width: 40%;
+    background-color: rgba(34, 32, 36, 0.39);
+    border-radius: 25px;
+    margin-left: 60px;
+    padding: 20px;
+   
+}
+.main{
+    display:flex;
+    flex-direction: row;
+    
+    
+}
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aquamarine;
+}
+li{
+    float: left;
+}
+li a{
+    color: rgba(255, 0, 0, 0.562);
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+}
+.footer{
+    width: 100%;
+    height:90px;
+    background-color: rgba(34, 32, 36, 0.39);
+    margin-top: 400px;
+
+   
 }
